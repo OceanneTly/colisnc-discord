@@ -6,6 +6,9 @@ By reducing itself to standard Java classes and some plugins like JavaCord and G
 
 ## 🎉Basic Usage
 
+After creating / adding the OPT - Bot on your Discord server using [Discord Developer Portal](https://discord.com/developers/applications)
+and change the Bot token as shown in Download / Installation
+
  
 ```
 /colis <parcel number>

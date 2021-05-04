@@ -30,6 +30,10 @@ And enter the Token of your Bot Discord as in the image below.
 * The [Javacord wiki](https://github.com/Javacord/Javacord#readme) is a great place to get started and to understand how the OPT - Bot works.
 * Additional documentation can be found in the [Gson wiki](https://github.com/google/gson#readme) for using file.json with java.
 
+## 💡 How to Create a Bot User and Get Its Token 
+
+* **[Creating a Bot User Account](https://javacord.org/wiki/getting-started/creating-a-bot-account.html)**
+
 ## 📄 Licence
 
 OPT - Bot is distributed under the [MIT License](./LICENSE).

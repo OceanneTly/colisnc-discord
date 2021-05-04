@@ -7,12 +7,28 @@ By reducing itself to standard Java classes and some plugins like JavaCord and G
 ## 🎉Basic Usage
 
 After creating / adding the OPT - Bot on your Discord server using [Discord Developer Portal](https://discord.com/developers/applications)
-and change the Bot token as shown in Download / Installation
+and change the Bot token as shown in Download / Installation.
 
+### Command
+
+Just use the command below in any text channel on your server :
  
 ```
 /colis <parcel number>
 ```
+## 📦 Download / Installation
+
+After downloading the Discord Bot code. Go to the branch: 
+```
+colisnc-discord/OPTBot/src/main/java/opt/OPTbot/App.java 
+```
+And enter the Token of your Bot Discord as in the image below.
+![image](https://user-images.githubusercontent.com/68040496/116978353-53625500-ad0f-11eb-8b4d-7018253a404a.png)
+
+## 📒 Documentation
+
+* The [Javacord wiki](https://github.com/Javacord/Javacord#readme) is a great place to get started and to understand how the OPT - Bot works.
+* Additional documentation can be found in the [Gson wiki](https://github.com/google/gson#readme) for using file.json with java.
 
 ## 📄 Licence
 
